@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Nurmira16/dictionary_react/static/css/main.27b99f8d.css",
+    "main.js": "/Nurmira16/dictionary_react/static/js/main.9c5c6fb0.js",
+    "index.html": "/Nurmira16/dictionary_react/index.html",
+    "main.27b99f8d.css.map": "/Nurmira16/dictionary_react/static/css/main.27b99f8d.css.map",
+    "main.9c5c6fb0.js.map": "/Nurmira16/dictionary_react/static/js/main.9c5c6fb0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27b99f8d.css",
+    "static/js/main.9c5c6fb0.js"
+  ]
+}
