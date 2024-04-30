@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Nurmira16/dictionary_react/static/css/main.27b99f8d.css",
-    "main.js": "/Nurmira16/dictionary_react/static/js/main.9c5c6fb0.js",
-    "index.html": "/Nurmira16/dictionary_react/index.html",
-    "main.27b99f8d.css.map": "/Nurmira16/dictionary_react/static/css/main.27b99f8d.css.map",
-    "main.9c5c6fb0.js.map": "/Nurmira16/dictionary_react/static/js/main.9c5c6fb0.js.map"
+    "main.css": "/news_react/static/css/main.b6cb6d28.css",
+    "main.js": "/news_react/static/js/main.ad58ff57.js",
+    "index.html": "/news_react/index.html",
+    "main.b6cb6d28.css.map": "/news_react/static/css/main.b6cb6d28.css.map",
+    "main.ad58ff57.js.map": "/news_react/static/js/main.ad58ff57.js.map"
   },
   "entrypoints": [
-    "static/css/main.27b99f8d.css",
-    "static/js/main.9c5c6fb0.js"
+    "static/css/main.b6cb6d28.css",
+    "static/js/main.ad58ff57.js"
   ]
 }
